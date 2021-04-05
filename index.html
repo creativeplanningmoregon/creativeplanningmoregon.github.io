@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Top 10 foods to try in Spain</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="index_files/main.css">
+    <noscript><link rel="stylesheet" href="noscript.css" /></noscript>
+    <script src="index_files/jquery-3.4.1.js.Без названия"></script>
+  </head>
+  <body class="" style="background-position: center 0px;">
+
+    <!-- Header -->
+      <section id="header">
+        <header>
+          <h1>Top 10 foods to try in Spain</h1>
+          <p>By Annie Bennett</p>
+        </header>
+        <footer>
+          <a href="" class="button style2 scrolly-middle">Proceed as anticipated</a>
+        </footer>
+      </section>
+
+
+    <!-- Banner -->
+      <section id="banner">
+        <header>
+          <h2>Don’t leave Spain without trying…</h2>
+        </header>
+        <p>The reddest, ripest tomatoes, olive oil, garlic, bread, peppers and cucumber are blended until silky smooth, then chilled and poured into bowls or glasses. So delicious, so refreshing. In Andalucía in southern Spain, people have it every day in summer and there is always a jug on the counter in tapas bars. Also try salmorejo from Córdoba, a thicker version that is often served with pieces of Ibérico ham on the top.
+</p>
+        <footer>
+          <a href="first" class="button style2 scrolly">Act on this message</a>
+        </footer>
+      </section>
+
+    <!-- Feature 1 -->
+      <article id="first" class="container box style1 right">
+        <a href="" class="image fit"><img src="index_files/pic01.jpg" alt=""></a>
+        <div class="inner">
+          <header>
+            <h2>Paella</h2>
+          </header>
+          <p>In the Valencia region, they claim you can eat a different rice dish every day of the year, but let’s stick with the most traditional version for now. Ingredients for paella Valenciana include chicken or rabbit, saffron, runner beans and butter beans.</p>
+        </div>
+      </article>
+
+    <!-- Feature 2 -->
+      <article class="container box style1 left">
+        <a href="" class="image fit"><img src="index_files/pic02.jpg" alt=""></a>
+        <div class="inner">
+          <header>
+            <h2>Tortilla Española</h2>
+          </header>
+          <p>Eggs, potatoes, onions… that’s it – and some purists even consider that adding onion is a gastronomic crime of the highest order. The Spanish omelette is so much more than the sum of its parts.</p>
+        </div>
+      </article>
+
+    <!-- Portfolio -->
+      <article class="container box style2">
+        <header>
+          <h2>Magnis parturient</h2>
+          <p>Justo phasellus et aenean dignissim<br>
+          placerat cubilia purus lectus.</p>
+        </header>
+        <div class="inner gallery">
+          <div class="row gtr-0">
+            <div class="col-3 col-12-mobile"><a class="image fit" style="cursor: pointer; outline: 0px;"><img src="index_files/thumbs_01.jpg" alt=""></a></div>
+            <div class="col-3 col-12-mobile"><a class="image fit" style="cursor: pointer; outline: 0px;"><img src="index_files/thumbs_02.jpg" alt=""></a></div>
+            <div class="col-3 col-12-mobile"><a class="image fit" style="cursor: pointer; outline: 0px;"><img src="index_files/thumbs_03.jpg" alt=""></a></div>
+            <div class="col-3 col-12-mobile"><a class="image fit" style="cursor: pointer; outline: 0px;"><img src="index_files/thumbs_04.jpg" alt=""></a></div>
+          </div>
+          <div class="row gtr-0">
+            <div class="col-3 col-12-mobile"><a class="image fit" style="cursor: pointer; outline: 0px;"><img src="index_files/thumbs_05.jpg" alt=""></a></div>
+            <div class="col-3 col-12-mobile"><a class="image fit" style="cursor: pointer; outline: 0px;"><img src="index_files/thumbs_06.jpg" alt=""></a></div>
+            <div class="col-3 col-12-mobile"><a class="image fit" style="cursor: pointer; outline: 0px;"><img src="index_files/thumbs_07.jpg" alt=""></a></div>
+            <div class="col-3 col-12-mobile"><a class="image fit" style="cursor: pointer; outline: 0px;"><img src="index_files/thumbs_08.jpg" alt=""></a></div>
+          </div>
+        </div>
+      </article>
+
+    <!-- Contact -->
+      <article class="container box style3">
+        <header>
+          <h2>Nisl sed ultricies</h2>
+          <p>Diam dignissim lectus eu ornare volutpat orci.</p>
+        </header>
+        <form method="post" action="">
+          <div class="row gtr-50">
+            <div class="col-6 col-12-mobile"><input type="text" class="text" name="name" placeholder="Name"></div>
+            <div class="col-6 col-12-mobile"><input type="text" class="text" name="email" placeholder="Email"></div>
+            <div class="col-12">
+              <textarea name="message" placeholder="Message"></textarea>
+            </div>
+            <div class="col-12">
+              <ul class="actions">
+                <li><input type="submit" value="Send Message"></li>
+              </ul>
+            </div>
+          </div>
+        </form>
+      </article>
+
+
+    <section id="footer">
+      <div class="copyright">
+        <ul class="menu">
+          <li>©. All rights reserved.</li><li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Scripts -->
+      <script src="index_files/jquery.min.js"></script>
+      <script src="index_files/jquery.scrolly.min.js"></script>
+      <script src="index_files/jquery.poptrox.min.js"></script>
+      <script src="index_files/browser.min.js"></script>
+      <script src="index_files/breakpoints.min.js"></script>
+      <script src="index_files/util.js"></script>
+      <script src="index_files/main.js"></script><div class="poptrox-overlay" style="position: fixed; left: 0px; top: 0px; z-index: 1000; width: 100%; height: 100%; text-align: center; cursor: pointer; display: none;"><div style="display:inline-block;height:100%;vertical-align:middle;"></div><div style="position:absolute;left:0;top:0;width:100%;height:100%;background:#0a1919;opacity:0.75;filter:alpha(opacity=75);"></div><div class="poptrox-popup" style="display: none; vertical-align: middle; position: relative; z-index: 1; cursor: auto; min-width: 200px; min-height: 100px;"><div class="loader" style="display: none;"></div><div class="pic" style="display: none;"></div><div class="caption" style="display: none;"></div><span class="closer" style="cursor: pointer; display: none;">×</span><div class="nav-previous" style="display: none;"></div><div class="nav-next" style="display: none;"></div></div></div>
+
+  
+</body></html>
